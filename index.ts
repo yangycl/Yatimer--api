@@ -3,7 +3,7 @@ import express from "express";
 
 const supabase = createClient(
   "https://epbzyginbymtlaumsllx.supabase.co",
-  "你的anonkey"
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVwYnp5Z2luYnltdGxhdW1zbGx4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc3NTgxNDQsImV4cCI6MjA3MzMzNDE0NH0.brg-BQq1UBQEtpT7nFVhUO4seYWDs76_NJnG2z_tt84"
 );
 
 const app = express();
