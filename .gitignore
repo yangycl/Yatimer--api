@@ -1,6 +1,1 @@
 node_modules/**
-.replit
-replit.nix
-package-lock.json
-package.json
-tsconfig.json

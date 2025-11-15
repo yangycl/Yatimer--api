@@ -1,0 +1,8 @@
+run = "node index.js"
+language = "nodejs"
+
+[env]
+PORT = "3000"
+
+[nix]
+channel = "stable"
